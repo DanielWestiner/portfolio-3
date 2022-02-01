@@ -11,7 +11,7 @@ This project was to update and clean up my second portfolio to showcase the rece
 
 ## Installation
 
-The index.html file along with the assets folder were deployed using GitHub Pages and can be used to open up the webpage. The portfolio is hosted through GitHub pages, at: https://danielwestiner.github.io/portfolio-2/ The indivial files can be accessed through my personal GitHub repository located: https://github.com/DanielWestiner/portfolio-2
+The index.html file along with the assets folder were deployed using GitHub Pages and can be used to open up the webpage. The portfolio is hosted through GitHub pages, at: https://danielwestiner.github.io/portfolio-3/ The indivial files can be accessed through my personal GitHub repository located: https://github.com/DanielWestiner/portfolio-3
 
 ## Usage
 
