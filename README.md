@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was to update and clean up my second portfolio to showcase the recent skills that I have learned in my budding career as a web developer. I linked some of the projects that I have developed in these first couple months as well as linked all personal pages (LinkedIn, Github, my Resume, etc) on to the portfolio as well.
+This project was to update my second portfolio to showcase the recent skills that I have learned in my budding career as a web developer. I linked some of the projects that I have developed in these first couple months as well as linked all personal pages (LinkedIn, Github, my Resume, etc) on to the portfolio as well.
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -18,7 +18,7 @@ The index.html file along with the assets folder were deployed using GitHub Page
 The files can be viewed using any desktop browser for viewing.
 The navigation can be used to browse different sections and will be updated as they become populated with projects.
 
-![Screenshot of Homepage](images/portfolio-2-screenshot.png)
+![Screenshot of Homepage](images/portfolio-3-screenshot.png)
 
 ## Credits
 
